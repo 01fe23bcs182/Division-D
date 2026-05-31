@@ -214,14 +214,8 @@ http://localhost:8501
 * Key Terms Extraction
 * Timestamp Generation
 * DOCX Export
-
-### In Progress
-
 * Audio Generation
 * UI Enhancements
-* Deployment
-
----
 
 ## Future Enhancements
 
